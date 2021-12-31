@@ -25,8 +25,8 @@
   <a href="https://www.linkedin.com/in/guilherme-rodrigues-029344162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhaxr123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  <div style="display: inline_block" align="center">
-  <a href = "https://www.codewars.com/users/Guilhaxr"><img src="https://www.codewars.com/users/Guilhaxr/badges/large" target="_blank"></a>
+  <div style="display: inline_block" >
+  <a href = "https://www.codewars.com/users/Guilhaxr"><img src="https://www.codewars.com/users/Guilhaxr/badges/small" target="_blank"></a>
   </div>
 
  
